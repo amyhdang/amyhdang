@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI design
 - 🌱 I’m currently learning HTML, CSS, and JS
 - 💞️ I’m looking to collaborate with other UI designers
-- 📫 How to reach me: amydang99@gmail.com
+- 📫 How to reach me: linkedin.com/amyhdang
 
 <!---
 amyhdang/amyhdang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
